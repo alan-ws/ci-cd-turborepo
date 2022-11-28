@@ -1,0 +1,8 @@
+{
+    "ignoreCommand": "pnpm dlx turbo-ignore",
+    "git": {
+      "deploymentEnabled": {
+        "main": false
+      }
+    }
+  }

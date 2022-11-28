@@ -1,8 +1,0 @@
-{
-  "ignoreCommand": "pnpx turbo-ignore",
-  "git": {
-    "deploymentEnabled": {
-      "main": false
-    }
-  }
-}
