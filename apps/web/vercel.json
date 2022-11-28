@@ -1,3 +1,4 @@
 {
-    "ignoreCommand": "./deploy_allowed.sh"
+    "ignoreCommand": "./deploy_allowed.sh",
+    "buildCommand": "./build_script.sh"
 }
