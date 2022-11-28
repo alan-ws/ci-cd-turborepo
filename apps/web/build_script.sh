@@ -2,3 +2,5 @@
 echo 'Can we build?';
 
 pnpm dlx vercel pull --yes --environment=preview --token=$VERCEL_ACCESS_TOKEN
+pnpm dlx vercel build --preview --token=$VERCEL_ACCESS_TOKEN
+pnpm dlx vercel deploy --prebuilt --preview --token=$VERCEL_ACCESS_TOKEN
