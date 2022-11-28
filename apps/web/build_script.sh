@@ -1,5 +1,5 @@
 #!/bin/bash
 echo 'Can we build?';
 
-echo env;
+env;
 vercel pull --yes
