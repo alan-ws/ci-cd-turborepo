@@ -1,5 +1,5 @@
 {
-    "ignoreCommand": "pnpm dlx turbo-ignore",
+    "ignoreCommand": "npx turbo-ignore",
     "git": {
       "deploymentEnabled": {
         "main": false
