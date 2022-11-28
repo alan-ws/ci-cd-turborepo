@@ -1,4 +1,0 @@
-{
-    "ignoreCommand": "./deploy_allowed.sh",
-    "buildCommand": "./build_script.sh"
-}

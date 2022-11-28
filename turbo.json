@@ -8,7 +8,11 @@
     "lint": {
       "outputs": []
     },
-    "dev": {
+    "dev_docs": {
+      "dependsOn": ["dev_web"],
+      "cache": false
+    },
+    "dev_web": {
       "cache": false
     }
   }
